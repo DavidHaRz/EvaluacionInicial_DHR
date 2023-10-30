@@ -1,0 +1,2 @@
+Datos del cliente:
+idCliente: 1, Nombre: David, Dirección: Calle X, Telefono: 123456789.
